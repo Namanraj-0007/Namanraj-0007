@@ -107,7 +107,7 @@
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: www.linkedin.com/in/namandip-raj-48b639250
-- 🌍 Portfolio: *(add when ready)*
+- 🌍 Portfolio: 
 - 📧 Email: namandraj0007@gmail.com
 
 ---
