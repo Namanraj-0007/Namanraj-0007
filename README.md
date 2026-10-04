@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Naman+Raj;Software+Developer;Full+Stack+MERN+Developer;AI+%7C+GenAI+Enthusiast;Building+Projects+That+Matter+%F0%9F%9A%80" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Naman%20Raj&fontSize=60&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Namandip%20Raj&fontSize=60&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn&fontColor=ffffff"/>
 
 </div>
 
