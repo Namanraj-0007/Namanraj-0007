@@ -5,6 +5,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Apps+%F0%9F%9A%80;Crafting+AI-Powered+Solutions+%F0%9F%A4%96;Check+out+my+Portfolio+below!+%E2%9C%A8" />
 
+<!-- Live Interactive Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NamanRaj-0007&color=00f7ff&style=for-the-badge&label=VISITORS" alt="Visitor Count" />
+</p>
+
 </div>
 
 ---
@@ -76,6 +81,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanRaj-0007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NamanRaj-0007&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -91,7 +97,7 @@
 # 🐍 Contribution Snake & Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NamanRaj-0007/NamanRaj-0007/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Namanraj-0007/Namanraj-0007/output/github-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 <p align="center">
