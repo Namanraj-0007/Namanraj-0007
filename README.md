@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- 3D / Animated Tech Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&customColorList=0,12,20,35&text=Namandip+Raj&fontSize=50&fontAlignY=35&fontColor=00F7FF&animation=fadeIn&desc=Full+Stack+Developer+%7C+AI+%26+GenAI+Enthusiast&descSize=18&descAlignY=65&descAlign=50" />
+<!-- Reliable Custom Gradient Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=gradient&customColorList=0,12,20,35&text=Namandip+Raj&fontSize=48&fontAlignY=35&fontColor=00F7FF&animation=fadeIn&desc=Full+Stack+Developer+%7C+AI+Enthusiast&descSize=16&descAlignY=65&descAlign=50" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Apps+%F0%9F%9A%80;Crafting+AI-Powered+Solutions+%F0%9F%A4%96;Turning+Complex+Problems+Into+Code+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Apps+%F0%9F%9A%80;Crafting+AI-Powered+Solutions+%F0%9F%A4%96;Check+out+my+Portfolio+below!+%E2%9C%A8" />
 
 </div>
 
@@ -11,13 +11,13 @@
 
 # 💫 About Me
 
-<img align="right" alt="Developer 3D" width="340" src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/media/coding.gif">
+<img align="right" alt="Developer 3D" width="320" src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/media/coding.gif">
 
-- 🎓 **B.Tech Computer Science Student** passionate about cutting-edge Software Engineering, AI & Full-Stack Architecture.
+- 🎓 **B.Tech Computer Science Student** passionate about Software Engineering, AI & Full-Stack Architecture.
 - 🚀 Specialized in building robust, scalable web applications using the **MERN Stack**.
 - 🤖 Exploring the frontiers of **Generative AI, LLMs, and Intelligent Automation**.
 - 📚 Continuously sharpening problem-solving skills via **DSA** and strong CS fundamentals.
-- 🌱 Driven by a simple core philosophy: *"Consistency beats Talent."*
+- 🌱 Driven by a core philosophy: *"Consistency beats Talent."*
 
 <br>
 
@@ -26,13 +26,16 @@
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/namandip-raj-48b639250">
+  <a href="https://portfolio-gamma-seven-58.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-00F7FF?style=for-the-badge&logo=Vercel&logoColor=black"/>
+  </a>
+  <a href="https://www.linkedin.com/in/namandip-raj-48b639250" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:namandraj0007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/NamanRaj-0007">
+  <a href="https://github.com/NamanRaj-0007" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -46,7 +49,7 @@
 ### 💻 Languages & Frameworks
 <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,html,css,react,nextjs,nodejs,express,tailwind,redux&perline=7"/>
 
-### 🗄️ Databases & Cloud & Tools
+### 🗄️ Databases, Cloud & Tools
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,docker,git,github,linux,vscode,postman,figma&perline=5"/>
 
 </div>
@@ -107,7 +110,13 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Connect With Me Anywhere!
+
+<p align="center">
+  <a href="https://portfolio-gamma-seven-58.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-00F7FF?style=for-the-badge&logo=Vercel&logoColor=black"/>
+  </a>
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Let's+Build+Something+Amazing+Together!;Happy+Coding!+%F0%9F%9A%80"/>
 
