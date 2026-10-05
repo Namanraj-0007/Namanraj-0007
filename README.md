@@ -88,14 +88,14 @@
 
 ---
 
-# 📈 Contribution Activity & Snake
+# 🐍 Contribution Snake & Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NamanRaj-0007&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://raw.githubusercontent.com/NamanRaj-0007/NamanRaj-0007/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NamanRaj-0007/NamanRaj-0007/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NamanRaj-0007&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
