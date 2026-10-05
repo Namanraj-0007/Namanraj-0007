@@ -18,11 +18,11 @@
 
 <img align="right" alt="Developer 3D" width="320" src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/media/coding.gif">
 
-- 🎓 **B.Tech Computer Science Student** passionate about Software Engineering, AI & Full-Stack Architecture.
-- 🚀 Specialized in building robust, scalable web applications using the **MERN Stack**.
-- 🤖 Exploring the frontiers of **Generative AI, LLMs, and Intelligent Automation**.
-- 📚 Continuously sharpening problem-solving skills via **DSA** and strong CS fundamentals.
-- 🌱 Driven by a core philosophy: *"Consistency beats Talent."*
+- 🎓 **B.Tech Computer Science graduate (2026)** preparing for Software Engineer / Frontend / GenAI roles.
+- 🚀 Focused on building full-stack web applications with **React.js, Next.js, TypeScript, Node.js, and FastAPI**.
+- 🤖 Building GenAI/LLM-powered applications using the **Gemini API and LangChain**.
+- 📚 Sharpening problem-solving through **DSA (200+ LeetCode)** and core CS fundamentals.
+- 🌱 Driven by a simple philosophy: *"Consistency beats Talent."*
 
 <br>
 
@@ -86,14 +86,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NamanRaj-0007&theme=algolia&row=1&column=4&margin-w=10&margin-h=10&no-bg=true"/>
-</p>
-
----
-
 # 🐍 Contribution Snake & Activity
 
 <p align="center">
@@ -106,11 +98,30 @@
 
 ---
 
-# 🚀 Current Focus
+# 🌱 Currently Leveling Up
 
-- 🧠 Mastering advanced Data Structures & Algorithms.
-- ⚡ Scaling and optimizing MERN stack cloud applications.
-- 🌐 Experimenting with cutting-edge Generative AI & LLM workflows.
+<div align="center">
+
+| 💻 **Full-Stack Architecture** | ⚙️ **Backend & High-Speed APIs** | 🤖 **Generative AI & LLMs** | 🧠 **Data Structures & DSA** |
+| :---: | :---: | :---: | :---: |
+| Building scalable MERN & Next.js applications | Designing robust REST/FastAPI endpoints & Microservices | Integrating RAG pipelines, agents & AI APIs | Solving complex algorithmic patterns |
+
+</div>
+
+---
+
+# 🎯 Open For Opportunities
+
+<div align="center">
+
+> ### 🌟 Let's Build Something Extraordinary Together!
+> **I am actively seeking professional roles in:**
+
+| 💼 **Full-Stack / Software Engineering Roles** | 🚀 **Backend Engineering Internships** | 🤖 **AI & GenAI Integration Projects** | 🤝 **High-Impact Open Source Collabs** |
+| :---: | :---: | :---: | :---: |
+| Scalable web app development & architecture | High-performance server-side systems | Smart automation & LLM workflows | Collaborative developer communities |
+
+</div>
 
 ---
 
